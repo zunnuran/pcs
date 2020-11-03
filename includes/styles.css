@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body{
+	background-color:#999;
+	}
+
+.container{
+	width: 800px;
+    margin: 50px auto;
+  		}
+.btn {        
+    font-size: 15px;
+    font-weight: bold;
+	color:white;
+}	
+
